@@ -1,6 +1,6 @@
 # Cryptocurrency-analysis
 
-Installation process and requriments:
+Installation process and requirements:
 ```
 Anaconda
 Conda
