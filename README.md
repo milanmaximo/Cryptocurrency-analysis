@@ -1,4 +1,3 @@
 # Cryptocurrency-analysis
 
 
-$ anaconda
